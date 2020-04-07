@@ -1,7 +1,12 @@
 /* user code main */
+<<<<<<< HEAD
 void user_a(void){
 	user-a
 	user-a2
+=======
+void user_b(void){
+	user-b
+>>>>>>> user-b
 }
 /* user code main END */
 
@@ -9,7 +14,12 @@ void user_a(void){
 /* user code 4 END */
 
 /* user code 10 */
+<<<<<<< HEAD
 void user_a10(void){
 	user-a
+=======
+void user_b10(void){
+	user-b
+>>>>>>> user-b
 }
 /* user code 10 END */
