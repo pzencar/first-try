@@ -1,4 +1,7 @@
 /* user code main */
+void user_b(void){
+	user-b
+}
 /* user code main END */
 
 /* user code 4 */
