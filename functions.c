@@ -1,6 +1,7 @@
 /* user code main */
 void user_a(void){
 	user-a
+	user-a2
 }
 /* user code main END */
 
